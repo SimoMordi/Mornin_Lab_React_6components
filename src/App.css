@@ -1,0 +1,31 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+.component-container {
+  width: 400px;
+  height: 200px;
+  margin: 20px;
+}
+
+.red {
+  background-color: red;
+}
+.blue {
+  background-color: blue;
+}
+.green {
+  background-color: green;
+}
+.grey {
+  background-color: grey;
+}
+.purple {
+  background-color: purple;
+}
+.textDisplay {
+  color: aliceblue;
+  font-size: xx-large;
+}
