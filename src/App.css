@@ -25,6 +25,9 @@
 .purple {
   background-color: purple;
 }
+.pink {
+  background-color: rgb(235, 106, 235)
+}
 .textDisplay {
   color: aliceblue;
   font-size: xx-large;

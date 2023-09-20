@@ -2,11 +2,11 @@ import React, { useState } from 'react'
 
 const RandomName = () => {
     const  namesArray = ["Willow", "River", "Sky", "Daisy", "Aspen"]
-    const [randomName, setRandomName] = useState(namesArray)
+    const [randomName, setRandomName] = useState("")
 
     const handleChange = () => {
         const randomNameIndex = Math.floor(Math.random() * namesArray.length)
-        return handleChange[randomNameIndex]
+        return namesArray[randomNameIndex]
     }
 
 

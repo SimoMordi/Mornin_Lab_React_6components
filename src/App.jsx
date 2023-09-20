@@ -31,6 +31,10 @@ const App = () => {
         <h1>component 5</h1>
       </div>
 
+      <div className="component-container pink">
+        <h1>component 6</h1>
+      </div>
+
     </div>
   );
 }
