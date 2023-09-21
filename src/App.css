@@ -32,3 +32,16 @@
   color: aliceblue;
   font-size: xx-large;
 }
+.addname{
+  width: 400px;
+  height: 300px;
+  margin: 20px;
+}
+.name{
+  color: rgb(247, 232, 28);
+  font-size: large;
+}
+.product{
+  font-size: xx-large;
+  color: rgb(9, 26, 14);
+}
